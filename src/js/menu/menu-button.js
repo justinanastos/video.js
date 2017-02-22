@@ -52,7 +52,6 @@ class MenuButton extends ClickableComponent {
     /**
      * Track the state of the menu button
      *
-     * @type {Boolean}
      * @private
      */
     this.buttonPressed_ = false;
